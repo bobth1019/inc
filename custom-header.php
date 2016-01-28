@@ -1,5 +1,5 @@
 <?php
-/**
+/**gg
  * Implements a custom header for Esteem.
  * See http://codex.wordpress.org/Custom_Headers
  *
